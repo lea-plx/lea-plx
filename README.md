@@ -20,7 +20,6 @@ Je suis actuellement en alternance dans une agence spécialisée dans le dévelo
 - **Outils de design et de maquettage** : Figma, Excalidraw 
 - **Base de données** : MySQL, DBeaver  
 
-![Bubble](https://img.shields.io/badge/Bubble-7D77B1?style=flat&logo=bubble&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -30,8 +29,6 @@ Je suis actuellement en alternance dans une agence spécialisée dans le dévelo
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-2A1D6E?style=flat&logo=excalidraw&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-000000?style=flat&logo=dbeaver&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CFF?style=flat&logo=stripe&logoColor=white)
-
 ---
 
 ## 🌟 Projets clés  
