@@ -17,7 +17,7 @@ Je suis actuellement en alternance dans une agence spécialisée dans le dévelo
 ## 🔧 Compétences Techniques  
 - **Développement no-code** : Bubble (MVP, intégration avec des services tiers (via API) comme Stripe)  
 - **Technologies** : Python, SQL, Docker, Node.js, React  
-- **Outils de design** : Figma
+- **Outils de design et de maquettage** : Figma, Excalidraw 
 - **Base de données** : MySQL, DBeaver  
 
 ---
