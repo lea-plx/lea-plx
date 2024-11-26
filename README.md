@@ -20,6 +20,10 @@ Je suis actuellement en alternance dans une agence spécialisée dans le dévelo
 - **Outils de design et de maquettage** : Figma, Excalidraw 
 - **Base de données** : MySQL, DBeaver  
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 ---
 
 ## 🌟 Projets clés  
