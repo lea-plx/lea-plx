@@ -3,7 +3,7 @@
 ## À propos de moi  
 💻 **Étudiante en Data & Tech**  
 Passionnée par le développement de projets techniques combinant analyse de données et automatisation.
-Je suis actuellement en alternance dans une agence spécialisée en développement no-code avec Bubble.
+Je suis actuellement en alternance dans une agence spécialisée dans le développement de produits tech grâce à des outils no-code comme Bubble.
 
 🎓 **Cursus académique**  
 - **3e année de Bachelor en Data et Intelligence Artificielle**  
