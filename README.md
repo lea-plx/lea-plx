@@ -26,9 +26,3 @@ Je suis actuellement en alternance dans une agence spécialisée dans le dévelo
 ### 🎯 **Analyse de tickets de caisse**  
 - Automatisation du traitement de données via **Docker**, **Python**, et **SQL**.  
 - Extraction d'insights exploitables pour la prise de décision.  
-
----
-
-## 📬 Me contacter  
-💼 [LinkedIn](www.linkedin.com/in/léa-poilleux)  
-📧 poilleuxlea10@gmail.com
