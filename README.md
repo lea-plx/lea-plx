@@ -30,5 +30,5 @@ Je suis actuellement en alternance dans une agence spécialisée dans le dévelo
 ---
 
 ## 📬 Me contacter  
-💼 [LinkedIn](#)  
-📧 [Email](#)  
+💼 [LinkedIn](www.linkedin.com/in/léa-poilleux)  
+📧 poilleuxlea10@gmail.com
